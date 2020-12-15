@@ -1,16 +1,4 @@
----
-layout: pattern
-title: Abstract Factory
-folder: abstract-factory
-permalink: /patterns/abstract-factory/
-categories: Creational
-tags:
- - Gang of Four
----
 
-## Also known as
-
-Kit
 
 ## Intent
 

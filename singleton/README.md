@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Singleton
-folder: singleton
-permalink: /patterns/singleton/
-categories: Creational
-tags:
- - Gang of Four
----
 
 ## Intent
 

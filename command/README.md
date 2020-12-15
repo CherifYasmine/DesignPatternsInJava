@@ -1,16 +1,4 @@
----
-layout: pattern
-title: Command
-folder: command
-permalink: /patterns/command/
-categories: Behavioral
-tags:
- - Gang of Four
----
 
-## Also known as
-
-Action, Transaction
 
 ## Intent
 

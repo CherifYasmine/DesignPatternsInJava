@@ -1,13 +1,3 @@
----
-layout: pattern
-title: Prototype
-folder: prototype
-permalink: /patterns/prototype/
-categories: Creational
-tags: 
- - Gang Of Four
- - Instantiation
----
 
 ## Intent
 

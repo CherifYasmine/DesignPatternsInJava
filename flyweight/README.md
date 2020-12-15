@@ -1,13 +1,3 @@
----
-layout: pattern
-title: Flyweight
-folder: flyweight
-permalink: /patterns/flyweight/
-categories: Structural
-tags:
- - Gang Of Four
- - Performance
----
 
 ## Intent
 

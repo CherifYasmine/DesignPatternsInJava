@@ -1,13 +1,3 @@
----
-layout: pattern
-title: Facade
-folder: facade
-permalink: /patterns/facade/
-categories: Structural
-tags:
- - Gang Of Four
- - Decoupling
----
 
 ## Intent
 

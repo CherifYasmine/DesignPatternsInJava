@@ -1,17 +1,4 @@
----
-layout: pattern
-title: Decorator
-folder: decorator
-permalink: /patterns/decorator/
-categories: Structural
-tags:
- - Gang Of Four
- - Extensibility
----
 
-## Also known as
-
-Wrapper
 
 ## Intent
 

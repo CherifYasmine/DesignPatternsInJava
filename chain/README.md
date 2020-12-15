@@ -1,12 +1,4 @@
----
-layout: pattern
-title: Chain of responsibility
-folder: chain
-permalink: /patterns/chain/
-categories: Behavioral
-tags:
- - Gang of Four
----
+
 
 ## Intent
 Avoid coupling the sender of a request to its receiver by giving more than one object a chance to 

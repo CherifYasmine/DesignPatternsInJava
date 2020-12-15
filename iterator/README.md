@@ -1,16 +1,4 @@
----
-layout: pattern
-title: Iterator
-folder: iterator
-permalink: /patterns/iterator/
-categories: Behavioral
-tags:
- - Gang of Four
----
 
-## Also known as
-
-Cursor
 
 ## Intent
 Provide a way to access the elements of an aggregate object sequentially without exposing its 

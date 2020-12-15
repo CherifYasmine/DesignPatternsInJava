@@ -1,12 +1,4 @@
----
-layout: pattern
-title: Visitor
-folder: visitor
-permalink: /patterns/visitor/
-categories: Behavioral
-tags:
- - Gang of Four
----
+
 
 ## Intent
 

@@ -1,15 +1,4 @@
----
-layout: pattern
-title: Adapter
-folder: adapter
-permalink: /patterns/adapter/
-categories: Structural
-tags:
- - Gang of Four
----
 
-## Also known as
-Wrapper
 
 ## Intent
 Convert the interface of a class into another interface the clients expect. Adapter lets classes work together that 

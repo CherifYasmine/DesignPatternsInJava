@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Memento
-folder: memento
-permalink: /patterns/memento/
-categories: Behavioral
-tags:
- - Gang of Four
----
 
 ## Also known as
 

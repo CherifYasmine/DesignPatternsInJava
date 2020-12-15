@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Template method
-folder: template-method
-permalink: /patterns/template-method/
-categories: Behavioral
-tags:
- - Gang of Four
----
 
 ## Intent
 

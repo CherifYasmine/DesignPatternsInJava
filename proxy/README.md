@@ -1,13 +1,4 @@
----
-layout: pattern
-title: Proxy
-folder: proxy
-permalink: /patterns/proxy/
-categories: Structural
-tags:
- - Gang Of Four
- - Decoupling
----
+
 
 ## Also known as
 

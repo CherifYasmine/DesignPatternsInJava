@@ -1,16 +1,4 @@
----
-layout: pattern
-title: Bridge
-folder: bridge
-permalink: /patterns/bridge/
-categories: Structural
-tags:
- - Gang of Four
----
 
-## Also known as
-
-Handle/Body
 
 ## Intent
 

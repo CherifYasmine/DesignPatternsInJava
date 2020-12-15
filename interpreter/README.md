@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Interpreter
-folder: interpreter
-permalink: /patterns/interpreter/
-categories: Behavioral
-tags:
- - Gang of Four
----
 
 ## Intent
 Given a language, define a representation for its grammar along

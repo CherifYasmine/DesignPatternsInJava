@@ -1,17 +1,3 @@
----
-layout: pattern
-title: Factory Method
-folder: factory-method
-permalink: /patterns/factory-method/
-categories: Creational
-tags:
- - Extensibility
- - Gang Of Four
----
-
-## Also known as
-
-Virtual Constructor
 
 ## Intent
 

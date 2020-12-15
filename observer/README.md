@@ -1,13 +1,3 @@
----
-layout: pattern
-title: Observer
-folder: observer
-permalink: /patterns/observer/
-categories: Behavioral
-tags:
- - Gang Of Four
- - Reactive
----
 
 ## Also known as
 

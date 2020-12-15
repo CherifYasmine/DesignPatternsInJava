@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Composite
-folder: composite
-permalink: /patterns/composite/
-categories: Structural
-tags:
- - Gang of Four
----
 
 ## Intent
 

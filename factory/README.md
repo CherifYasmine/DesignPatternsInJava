@@ -1,12 +1,3 @@
----
-layout: pattern
-title: Factory
-folder: factory
-permalink: /patterns/factory/
-categories: Creational
-tags:
- - Gang of Four
----
 
 ## Also known as
 

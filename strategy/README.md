@@ -1,12 +1,4 @@
----
-layout: pattern
-title: Strategy
-folder: strategy
-permalink: /patterns/strategy/
-categories: Behavioral
-tags:
- - Gang of Four
----
+
 
 ## Also known as
 
